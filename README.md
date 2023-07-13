@@ -2,10 +2,10 @@
 
 ## Hello, I'm Thomas Cazort!
 - 🧑‍💻 I write software
-- 🏢 I'm a Software Engineer at [Youdle](https://youdleit.com/)!
+- 🏢 Fullstack Software Engineer at [Youdle](https://youdleit.com/)
 - 🏫 Grad Student at USC
 - 💬 I love to talk about tech and career
-- 📫 Happy to connect and chat on [LinkedIn](https://www.linkedin.com/in/thomascazort337/)!
+- 📫 Happy to connect and chat on [LinkedIn](https://www.linkedin.com/in/thomascazort337/)
 
 <img src="la-skyline.png" style="width:100%">
 
