@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-## Hello, it's Thomas!
+## Hello, I'm Thomas Cazort!
 - 🧑‍💻 I write software
 - 🏢 I'm a Software Engineer at [Youdle](https://youdleit.com/)!
 - 🏫 Grad Student at USC
