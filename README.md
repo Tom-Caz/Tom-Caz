@@ -1,4 +1,13 @@
-### Hi there 👋
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+
+## Hello, it's Thomas!
+- 🧑‍💻 I write software
+- 🏢 I'm a Software Engineer at [Youdle](https://youdleit.com/)!
+- 🏫 Grad Student at USC
+- 💬 I love to talk about tech and career
+- 📫 Happy to connect and chat on [LinkedIn](https://www.linkedin.com/in/thomascazort337/)!
+
+<img src="https://media.istockphoto.com/id/885634636/vector/los-angeles-usa-skyline-city-silhouette-with-skyscraper-buildings-mountains-and-palm-trees.jpg?s=612x612&w=0&k=20&c=N7cBj14T4mNfESM6fRA_wFNDVqpXj8QB8oJGWolD_ZQ=">
 
 <!--
 **Tom-Caz/Tom-Caz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
