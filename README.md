@@ -4,6 +4,7 @@
 - 🧑‍💻 I write software
 - 🏢 Fullstack Software Engineer at [Youdle](https://youdleit.com/)
 - 🏫 Grad Student at USC
+- ℹ️ Check out my [Website](https://thomascazort.vercel.app/)
 - 💬 I love to talk about tech and career
 - 📫 Happy to connect and chat on [LinkedIn](https://www.linkedin.com/in/thomascazort337/)
 
