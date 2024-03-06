@@ -3,7 +3,7 @@
 ## Hello, I'm Thomas Cazort!
 - 🏢 Fullstack Software Engineer
 - 🏫 Grad Student at USC
-- ℹ️ Check out my [Website](https://thomascazort.vercel.app/)
+- ℹ️ Check out my [Website](https://thomascazort.dev)
 - 📫 Happy to connect and chat on [LinkedIn](https://www.linkedin.com/in/thomascazort337/)
 
 <img src="la-skyline.png" style="width:100%">
