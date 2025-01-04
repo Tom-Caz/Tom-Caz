@@ -1,5 +1,3 @@
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-
 ## Hello, I'm Thomas Cazort!
 - 🏢 Fullstack Software Engineer
 - 🏫 Grad Student at USC
